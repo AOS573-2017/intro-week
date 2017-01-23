@@ -1,0 +1,5 @@
+What state and city are we currently in?
+What are the current conditions outside for temperature, wind, and visibility?
+What is your favorite weather model, or do you have one?
+Which language do you think you will like more: Fortran, Matlab, or Python?
+Do you want to build a snowman?
